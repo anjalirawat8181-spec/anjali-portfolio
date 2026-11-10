@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+test-results/
+test-results/
+portfolio-photos/
+portfolio-photos.zip
+*.tsbuildinfo
